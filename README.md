@@ -3,7 +3,7 @@ This was just a quick project based on an article on logrocket. I wanted to see 
 It would still take a lot of time from me, but the project gave me a general insight into this.
 
 The site:
-stalwart-blini-a1b681.netlify.app/
+https://stalwart-blini-a1b681.netlify.app/
 
 The article:
 https://blog.logrocket.com/build-crud-application-react-firebase-web-sdk-v9/
